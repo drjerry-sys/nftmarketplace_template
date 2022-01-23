@@ -3,7 +3,7 @@
 ## Introduction
 
 nftmarketplace is a single page app design written with Next.js and Tailwind.css.
-It was a clent design template written and my first time of trying both next.js and Tailwind.css out.
+It was my first time of trying both next.js and Tailwind.css out.
 It took `less than 6hrs` to get this done. Both the Learning and Building of the page.
 
 ## Getting Started
