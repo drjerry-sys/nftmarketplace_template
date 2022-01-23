@@ -2,7 +2,7 @@
 
 ## Introduction
 
-nftmarketplace is a single page app written with Next.js and Tailwind.css.
+nftmarketplace is a single page app design written with Next.js and Tailwind.css.
 It was a clent design template written and my first time of trying both next.js and Tailwind.css out.
 It took `less than 6hrs` to get this done. Both the Learning and Building of the page.
 
@@ -20,9 +20,9 @@ Open [development server](http://localhost:3000) with your browser to see the pr
 
 ## Components
 ```
-*Navbar
-Featured
-NftCard
+1. Navbar
+2. Featured
+- NftCard
 
 ```
 
