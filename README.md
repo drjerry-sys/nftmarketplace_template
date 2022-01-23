@@ -1,4 +1,4 @@
-![nftmarketplace picture preview](Screenshot (1).png)
+![nftmarketplace picture preview](./Screenshot (1).png)
 ## Getting Started
 
 First, run the development server:
