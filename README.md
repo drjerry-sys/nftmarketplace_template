@@ -22,19 +22,16 @@ Open [development server](http://localhost:3000) with your browser to see the pr
 ```
 1. Navbar
 2. Featured
-- NftCard
+3. NftCard
 
 ```
 
 ## Sections
 
-```
 -Latest
 -Trending
  -24hrs
  -7 days
  -30 days
- 
-```
 
 ```Not yet deployed```
