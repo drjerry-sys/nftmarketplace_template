@@ -1,4 +1,4 @@
-![nftmarketplace picture preview](https://github.com/drjerry-sys/nftmarketplace_template/issues/1#issue-1111865505)
+![nftmarketplace picture preview](Screenshot (1).png)
 ## Getting Started
 
 First, run the development server:
