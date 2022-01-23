@@ -1,4 +1,5 @@
-![nftmarketplace picture preview](./Screenshot (1).png)
+![Screenshot (1)](https://user-images.githubusercontent.com/64374109/150680309-6266925b-483a-4129-b795-8c9f2f4bbcd2.png)
+
 ## Getting Started
 
 First, run the development server:
