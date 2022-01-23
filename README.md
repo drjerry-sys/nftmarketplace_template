@@ -21,8 +21,8 @@ Open [development server](http://localhost:3000) with your browser to see the pr
 ## Components
 ```
 *Navbar
-*Featured
-*NftCard
+Featured
+NftCard
 
 ```
 
